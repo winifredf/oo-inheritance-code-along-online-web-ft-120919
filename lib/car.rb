@@ -8,4 +8,10 @@ class Car < Vehicle
   end
   
   def go
-    
+    "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
+  end
+  
+  def fill_up_tak
+    "filling up"
+  end
+end
